@@ -1,1 +1,1 @@
-trading App
+Trading App
